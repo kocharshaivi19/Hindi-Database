@@ -18,6 +18,7 @@ download .zip file unpacks) contains the following:
 ----------------------
 
 These are located in Hindi-Database/Hindi-Database/.
-Hindi Numbers 1-100; Name of Months and Days;
+         
+Hindi Numbers 1-100;Name of Months and Days.
 There are 21 images in .jpg format in each folder with a Unicode.txt file containing Unicode for each word.
 --------------------------------------------------------------------------------------------------------------------------------
